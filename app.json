@@ -9,11 +9,11 @@
     },
     "BFOLDER": {
        "description": "挂载指定目录（填写目录 UUID）",
-       "value": "root"
+       "value": "60db2385f26d16c251d74b51bd3c2cbaf139cc34"
     },
     "CTITLE": {
        "description": "网站标题",
-       "value": "Alist on heroku"
+       "value": "影音云"
     },
     "DPASSWORD": {
        "description": "重构目录密码",
