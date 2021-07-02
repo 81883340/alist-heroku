@@ -4,7 +4,7 @@ mkdir -p /alist/config/
 # 写入配置文件
 cat >/alist/config/conf.yml <<EOF
 info:
-  title: $CTITLE
+  title: 影音云
   logo:
   footer_text: 影音云
   footer_url: 
